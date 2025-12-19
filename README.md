@@ -65,9 +65,13 @@ Complex queries were developed using:
 
 ## 🧱 Project Structure
 - `sql_queries.sql` — Core SQL queries used for analysis  
-- `analysis_summary.pdf` — Final analytical report and business insights  
+- `B2B_Customer_Purchasing_Seasonal_Trends_SQL_Summary.pdf` — Final analytical report and business insights  
 - `README.md` — Project overview and findings  
 
+---
+📄 **Project Summary:**  
+A concise executive summary of this analysis is available  
+[Download PDF](./B2B_Customer_Purchasing_Seasonal_Trends_SQL_Summary.pdf)
 ---
 
 ## 🛠 Tools Used
